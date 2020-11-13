@@ -1,0 +1,15 @@
+
+Usuario: edwinadmin(1)
+	CRUD, reportes 
+	Contraseña: jmig78ADyhgQWER
+
+Usuario: standar(2)
+	CRUD
+    ferstandar
+	Contraseña: olf0547wGTFju45	
+    luistandar
+	Contraseña2: lokjHGT456BNMsa	
+    raulstandar
+	Contraseña3: adset789123GTFE	
+    nicostandar
+	Contraseña4: 4568JUHG123fthd
